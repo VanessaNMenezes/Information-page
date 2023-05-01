@@ -1,3 +1,3 @@
-# Minha página de informações 💖
+# Minha página de informações  💖
 
- Minha primeira página de informações básicas sobre mim 
+ Minha primeira página de informações básicas sobre mim! 
